@@ -1,8 +1,12 @@
 Start Here --> Simple Exploit http://testphp.acunetix.com/
 
+Setup XAMPP : https://www.apachefriends.org/index.html
+
 Setup DVWA : http://www.dvwa.co.uk/
 
 setup Multidae : https://www.owasp.org/index.php/OWASP_Mutillidae_2_Project
+
+
 
 SQL for Trunk  Database test (Use mysql Client of PHPmyadmin): 
 
